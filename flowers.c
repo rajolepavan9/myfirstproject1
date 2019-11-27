@@ -2,4 +2,5 @@
 int main()
 {
 printf("lotus\n");
+printf("rose\n");
 }

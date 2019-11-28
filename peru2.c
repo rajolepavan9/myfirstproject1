@@ -1,4 +1,3 @@
-kranthi
 pavan
 santosh
 harish
